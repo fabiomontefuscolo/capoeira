@@ -1,0 +1,4 @@
+baseURL = 'https://fabiomontefuscolo.github.io/capoeira/'
+languageCode = 'pt-br'
+title = 'Letras para Capoeira'
+theme = "beautifulhugo"
